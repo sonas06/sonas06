@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonas06
 - 👀 I’m interested in project work of python,power BI for data analytics
-- 🌱 I’m currently learning Data analytics
+- 🌱 I’m currently learning Data analytics-Finance 
 - 💞️ I’m looking to collaborate on POWER BI projects
 - 📫 How to reach me ...mail on- shende61299@gmail.com
 -
